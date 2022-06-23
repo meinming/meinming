@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-		<h1>502 Bad Gateway</h1>
+		#502 Bad Gateway
 		<p>The proxy server received an invalid response from an upstream server.Sorry for the inconvenience.</p>
 		<p>Plcase report this acssage and include the following information to us.</p>
 		<p>Thank you very much!</p>
