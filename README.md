@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **meinming/meinming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+		<h1>502 Bad Gateway</h1>
+		<p>The proxy server received an invalid response from an upstream server.Sorry for the inconvenience.</p>
+		<p>Plcase report this acssage and include the following information to us.</p>
+		<p>Thank you very much!</p>
+		<p>URL:https://meinming.github.io/README.md</p>
+		<p>Servcr:github.com</p>
+		<p>Date:Today</p>
+		<p>Pcwered by meinming</p>
