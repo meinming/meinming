@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-		#502 Bad Gateway
-		<p>The proxy server received an invalid response from an upstream server.Sorry for the inconvenience.</p>
-		<p>Plcase report this acssage and include the following information to us.</p>
-		<p>Thank you very much!</p>
-		<p>URL:https://meinming.github.io/README.md</p>
-		<p>Servcr:github.com</p>
-		<p>Date:Today</p>
-		<p>Pcwered by meinming</p>
+# 502 Bad Gateway
+The proxy server received an invalid response from an upstream server.Sorry for the inconvenience.<br>
+Plcase report this acssage and include the following information to us.<br>
+Thank you very much!<br>
+URL:https://meinming.github.io/README.md<br>
+Server:github<br>
+Date:Today<br>
+Powered by meinming
