@@ -14,11 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 502 Bad Gateway
-The proxy server received an invalid response from an upstream server.Sorry for the inconvenience.<br>
-Plcase report this acssage and include the following information to us.<br>
-Thank you very much!<br>
-URL:https://meinming.github.io/README.md<br>
-Server:github<br>
-Date:Today<br>
-Powered by meinming
+# Hallo,Dear Sir
+A newbie of code.welcome to mutual following.I hope that you will like my repository.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=meinming&show_icons=true&theme=react" align="right" alt="Xiaoming's Gitub Stats">
+</a>
+You can **find out me** on fllowing appication:
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmeinming&style=flat-square)](https://github.com/meinming)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?logo=bilibili&label=Bilibili&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D470466853&style=flat-square)](https://space.bilibili.com/470466853)
+
+**skill**
+I'm learning Java,Kotlin,Python,Cpp(~~but it seems have no effect~~)
+
+**all my nikoname**
+- xiaoming
+- ussr_xiaoming
+- cccp_xiaoming
+- meinming
+- Muller. ming
